@@ -1,136 +1,143 @@
-
 .wraper {
-	width: 900px;
-	height: auto;
-	margin: 0 auto;
-	padding-bottom: 30px;
+width: 900px;
+height: auto;
+margin: 0 auto;
+padding-bottom: 30px;
 }
 header {
 	background: darkgray;
 
-}
-.logo {
+	}
+	.logo {
 	background-image: url("img/paz_logo.png");
 	background-size: contain;
 	width: 142px;
 	height: 93px;
 	float: right;
-}
-.navlist ul{
+	}
+	.navlist ul{
 	width: 100%;
 	height: 40px;
-}
-.navlist ul li {
+	}
+	.navlist ul li {
 	float:right;
 	list-style: none;
 	width: 11%;
 	}
-.navlist ul li a {
+	.navlist ul li a {
 	color: white;
-				direction: rtl;
-}
+	direction: rtl;
+	}
 
-/*---------end header---------*/
-/*---------box1---------*/
-.box1 {
- clear: both;
-}
-.box1 ul {
-
+	/*---------end header---------*/
+	/*---------box1---------*/
+	.box1 {
+	clear: both;
+	}
+	.box1 ul {
+	float:left;
 	margin: 0;
 	padding: 10px;
-}
-.box1 ul li{
+	}
+	.box1 ul li{
 	width: 293px;
 	height: 355px;
 	list-style: none;
 	float: left;
-}
-.box1 ul li a{
-    margin-top: 200px;	
-}
-.pic1 {
+	}
+	.box1 ul li a{
+	margin-top: 200px;
+	}
+	.pic1 {
 	background-image: url("img/פזקר_-291_354410564000.jpg");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 33%;
 	height: auto;
-}
-.pic2 {
+	}
+	.pic2 {
 	background-image: url("img/Picture-046410251500.jpg");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 33%;
 	height: auto;
-}
-.pic3 {
+	}
+	.pic3 {
 	background-image: url("img/1908364606615453350.JPG");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 33%;
 	height: auto;
-}
-/*---------box2---------*/
-.box2 {
- clear: both;
-}
-.box2 ul li{
+	}
+	/*---------box2---------*/
+	.box2 {
+	clear: both;
+	}
+	.box1 ul {
+
+	margin: 0;
+	padding: 10px;
+	}
+	.box2 ul li{
 	width: 292px;
 	height: 216px;
 	list-style: none;
+	float: left;
 
-}
+	}
 
-.pic4{
+	.pic4{
 	background-image: url("img/Untitled-3058756287.jpg");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 33%;
 	height: auto;
-}
-.pic5 {
+	}
+	.pic5 {
 	background-image: url("img/paz_250x110103131473.jpg");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 33%;
 	height: auto;
-}
-.pic6 {
+	}
+	.pic6 {
 	background-image: url("img/white_logo.png");
 	background-repeat: no-repeat;
 	background-size: contain;
 	width: 33%;
 	height: auto;
-}
-/*---------footer---------*/
-footer {
+	}
+	/*---------footer---------*/
+	footer {
 	background: darkgray;
 	width: 1426px;
 	height: 38px;
-}
-.facebook{
+
+	}
+	.facebook{
 	background-image: url("img/fb_icon.png");
 	width: 18px;
 	height: 18px;
-}
-.logofoot{
+	}
+	.logofoot{
 	background-image: url("img/white_logo.png");
-		width: 135px;
+	width: 135px;
 	height: 18px;
-}
-.ulfoot ul
+	}
+	.ulfoot ul
 	width: 900px;
 	height: 18px;{
-	clear:both;
-	float: right;
+	clear: both;
+
 }
 .ulfoot ul li {
 	list-style: none;
+		float: right;
 }
 .ulfoot ul li a {
 	color: white;
 }
-.clear-box{
+.clear-box {
 	clear: both;
 	overflow: hidden;
 }
